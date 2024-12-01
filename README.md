@@ -6,7 +6,6 @@
   <p>
     This is a clone website of the iPhone 15 Pro, featuring 3D models and dynamic animations that bring the device to life. The smooth interactions and immersive visuals replicate the experience of a real product site. Explore every detail as if you’re navigating the official Apple page.
   </p>
-  
 
 
 <!-- Table of Contents -->
@@ -22,7 +21,6 @@
 - [Contributing](#contributing)
 - [Contact](#contact)
 
-
 <!-- About the Project -->
 
 ## About the Project
@@ -34,7 +32,6 @@
 <div align="center"> 
   <img src="https://github.com/user-attachments/assets/90a3dd0d-5971-44ee-8129-0c3c94005d6d" alt="screenshot" />
 </div>
-
 
 <!-- TechStack -->
 
@@ -94,8 +91,6 @@ Start the server
 <!-- Contact -->
 
 ## Contact
-
-
 
 Mohit kushwaha - [@mohitktwts](https://twitter.com/mohitktwts)
 Mail- mohitmsq@gmail.com
