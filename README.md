@@ -14,13 +14,14 @@
 # Table of Contents
 
 - [About the Project](#about-the-project)
-  - [Screenshots](#screenshots)
-  - [Tech Stack](#tech-stack)
-  - [Features](#features)
+- [Screenshots](#screenshots)
+- [Tech Stack](#tech-stack)
+- [Features](#features)
 - [Getting Started](#getting-started)
-  - [Run Locally](#run-locally)
+- [Run Locally](#run-locally)
 - [Contributing](#contributing)
 - [Contact](#contact)
+
 
 <!-- About the Project -->
 
@@ -33,6 +34,7 @@
 <div align="center"> 
   <img src="https://github.com/user-attachments/assets/90a3dd0d-5971-44ee-8129-0c3c94005d6d" alt="screenshot" />
 </div>
+
 
 <!-- TechStack -->
 
@@ -92,6 +94,8 @@ Start the server
 <!-- Contact -->
 
 ## Contact
+
+
 
 Mohit kushwaha - [@mohitktwts](https://twitter.com/mohitktwts)
 Mail- mohitmsq@gmail.com
